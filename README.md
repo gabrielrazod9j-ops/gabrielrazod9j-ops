@@ -10,7 +10,7 @@
       <h3>Olá, eu sou o Gabriel! 👋</h3>
       <p>Tenho 18 anos e sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS) na FIAP</b>. Sou apaixonado por tecnologia e focado em evoluir constantemente minhas habilidades de programação e desenvolvimento de software.</p>
       <p>💡 Busco sempre ir além da teoria acadêmica, transformando ideias em soluções reais, aplicando conceitos de arquitetura robusta, interfaces intuitivas e automação de dados.</p>
-      <p>🚀 No momento, estou em busca da minha primeira oportunidade no mercado (Estágio / Júnior) para colocar a mão na massa e somar com o time!</p>
+      <p>🚀 No momento, estou em busca da minha primeira oportunidade no mercado (Estágio) para colocar a mão na massa e somar com o time!</p>
     </td>
     <td valign="top" width="40%" align="right">
       <img height="180" src="https://i.pinimg.com/1200x/ff/2b/7d/ff2b7df01c42d346cf124c1c67e25734.jpg" style="border-radius: 10px;" />
@@ -50,14 +50,13 @@
 * **ÓrbitaAgro Copilot 🚀**: Assistente inteligente voltado ao agronegócio, focado em otimização de processos, integração de dados no setor agrícola e suporte tecnológico para tomada de decisões.
 * **SoulUp (Smart Avatar) 🤖**: Idealização de uma startup focada em sustentabilidade para os desafios da FIAP, desenvolvendo o conceito de um assistente virtual interativo baseado em IA.
 * **Dashboard Automatizado em Python 📊**: Sistema que processa e transforma planilhas do Excel (`.xlsx`) em gráficos interativos e visuais utilizando bibliotecas de dados.
-* **Plataforma de Gestão Esportiva ⚽**: Estruturação lógica e de banco de dados para um sistema de agendamento e gerenciamento voltado para escolinhas de futebol, com múltiplos níveis de acesso.
+* **Plataforma de Gestão Esportiva ⚽**: Estruturação lógica e de banco de dados para um systema de agendamento e gerenciamento voltado para escolinhas de futebol, com múltiplos níveis de acesso.
 
 ---
 
-### 🕹️ Retro Gaming Room
 
 <div align="center">
-  <img src="https://media2.dev.to/dynamic/image/width=600,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9b7i75e6nptylz8iylun.gif" width="400" alt="Pacman Retro" />
+  <img src="https://i.pinimg.com/736x/64/ab/08/64ab08782b0139f931e4eb7ae7a0af92.jpg" width="400" alt="Pacman Retro Animado" />
   <p><i>Construindo soluções e devorando desafios...</i></p>
 </div>
 
