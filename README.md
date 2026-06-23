@@ -1,70 +1,84 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Gabriel%20Razo&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&theme=slate" />
 </div>
 
-###
+<br>
 
-<h2 align="center">Gabriel Razo</h2>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="60%">
+      <h3>Olá, eu sou o Gabriel! 👋</h3>
+      <p>Tenho 18 anos e sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS) na FIAP</b>. Sou apaixonado por tecnologia e focado em evoluir constantemente minhas habilidades de programação e desenvolvimento de software.</p>
+      <p>💡 Busco sempre ir além da teoria acadêmica, transformando ideias em soluções reais, aplicando conceitos de arquitetura robusta, interfaces intuitivas e automação de dados.</p>
+      <p>🚀 No momento, estou em busca da minha primeira oportunidade no mercado (Estágio / Júnior) para colocar a mão na massa e somar com o time!</p>
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img height="180" src="https://i.pinimg.com/1200x/ff/2b/7d/ff2b7df01c42d346cf124c1c67e25734.jpg" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-###
+---
 
-<p align="left">Olá, eu sou o Gabriel! 👋<br><br>Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP. Sou apaixonado por tecnologia e focado em evoluir constantemente minhas habilidades de programação e desenvolvimento de software.</p>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/1200x/ff/2b/7d/ff2b7df01c42d346cf124c1c67e25734.jpg"  />
-
-###
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <!-- Back-end & Dados -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  
+  <br><hidden> </hidden>
+  
+  <!-- Front-end -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <br><hidden> </hidden>
+  
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-###
+---
 
-<div align="left">
+### 🏆 Principais Projetos
+
+* **ÓrbitaAgro Copilot 🚀**: Assistente inteligente voltado ao agronegócio, focado em otimização de processos, integração de dados no setor agrícola e suporte tecnológico para tomada de decisões.
+* **SoulUp (Smart Avatar) 🤖**: Idealização de uma startup focada em sustentabilidade para os desafios da FIAP, desenvolvendo o conceito de um assistente virtual interativo baseado em IA.
+* **Dashboard Automatizado em Python 📊**: Sistema que processa e transforma planilhas do Excel (`.xlsx`) em gráficos interativos e visuais utilizando bibliotecas de dados.
+* **Plataforma de Gestão Esportiva ⚽**: Estruturação lógica e de banco de dados para um sistema de agendamento e gerenciamento voltado para escolinhas de futebol, com múltiplos níveis de acesso.
+
+---
+
+### 🕹️ Retro Gaming Room
+
+<div align="center">
+  <img src="https://media2.dev.to/dynamic/image/width=600,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9b7i75e6nptylz8iylun.gif" width="400" alt="Pacman Retro" />
+  <p><i>Construindo soluções e devorando desafios...</i></p>
 </div>
 
-###
+---
 
-<br clear="both">
+### 📬 Vamos nos conectar?
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gabriel-razo-dantas-34724b301?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabriel.razodantas@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/gabrielrzd4?igsh=MXJ4ZXRveHo1bmlrMA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-###
+<br>
+
+<div>
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=ocean" />
+</div>
