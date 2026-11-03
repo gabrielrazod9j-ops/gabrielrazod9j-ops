@@ -8,7 +8,7 @@
   <tr>
     <td valign="top" width="60%">
       <h3>Olá, eu sou o Gabriel! </h3>
-      <p>Tenho 18 anos e sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS) na FIAP</b>. Sou apaixonado por tecnologia e focado em evoluir constantemente minhas habilidades de programação e desenvolvimento de software.</p>
+      <p>Tenho 18 anos e sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS) na FIAP</b>. Gosto de tecnologia e estou focado em evoluir constantemente minhas habilidades de programação e desenvolvimento de software.</p>
       <p>- Busco sempre ir além da teoria acadêmica, transformando ideias em soluções reais, aplicando conceitos de arquitetura robusta, interfaces intuitivas e automação de dados.</p>
       <p>- No momento, estou em busca da minha primeira oportunidade no mercado (Estágio) para colocar a mão na massa e somar com o time!</p>
     </td>
