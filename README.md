@@ -122,7 +122,7 @@ WHERE nome = 'Gabriel';
 </details>
 
 <details>
-  <summary><b>🐍 Por que a cobrinha aqui embaixo?</b></summary>
+  <summary><b>🐍 Por que a cobrinha está aqui embaixo?</b></summary>
   <br>
   Ela "come" os quadradinhos do meu gráfico de contribuições. Quanto mais eu programo, mais comida ela tem!
 </details>
