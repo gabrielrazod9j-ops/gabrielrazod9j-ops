@@ -7,14 +7,14 @@
 
 Tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**. Meu foco é **back-end e dados**, mas também tenho uma boa base em front-end, o que me ajuda a entender a aplicação de ponta a ponta.
 
-- 🎯 Busco ir além da teoria e transformar ideias em soluções reais
-- 🌱 Estou sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
-- 💼 Procuro minha **primeira oportunidade de estágio** em desenvolvimento ou dados, em São Paulo
+-  Busco ir além da teoria e transformar ideias em soluções reais
+-  Estou sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+-  Procuro minha **primeira oportunidade de estágio** em desenvolvimento ou dados, em São Paulo
 - 📫 Contato: **gabriel.razodantas@gmail.com**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -49,11 +49,11 @@ Tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na FIA
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🚀 **ÓrbitaAgro Copilot** | Assistente inteligente para o agronegócio, focado em otimizar processos, integrar dados do setor agrícola e apoiar a tomada de decisões. | Projeto FIAP |
-| 🤖 **SoulUp (Smart Avatar)** | Startup idealizada para os desafios da FIAP, com foco em sustentabilidade e um assistente virtual interativo baseado em IA. | Projeto FIAP |
-| 📊 **Dashboard Automatizado** | Sistema que transforma planilhas do Excel (`.xlsx`) em gráficos interativos. | Python |
-| ⚽ **Gestão Esportiva** | Estrutura lógica e banco de dados para um sistema de agendamento e gestão de escolinhas de futebol, com múltiplos níveis de acesso. | SQL · Modelagem |
-| ☕ **CRUD e Consumo de API** | Aplicações com operações de criação, leitura, atualização e exclusão de dados e consumo de uma API externa. | Java |
+|  **ÓrbitaAgro Copilot** | Assistente inteligente para o agronegócio, focado em otimizar processos, integrar dados do setor agrícola e apoiar a tomada de decisões. | Projeto FIAP |
+|  **SoulUp (Smart Avatar)** | Startup idealizada para os desafios da FIAP, com foco em sustentabilidade e um assistente virtual interativo baseado em IA. | Projeto FIAP |
+|  **Dashboard Automatizado** | Sistema que transforma planilhas do Excel (`.xlsx`) em gráficos interativos. | Python |
+|  **Gestão Esportiva** | Estrutura lógica e banco de dados para um sistema de agendamento e gestão de escolinhas de futebol, com múltiplos níveis de acesso. | SQL · Modelagem |
+|  **CRUD e Consumo de API** | Aplicações com operações de criação, leitura, atualização e exclusão de dados e consumo de uma API externa. | Java |
 
 ---
 
@@ -82,7 +82,7 @@ Tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na FIA
 
 ---
 
-## 🎮 Área interativa
+##  Área interativa
 
 <details>
   <summary><b>☕ Clique aqui para conhecer meu código favorito</b></summary>
