@@ -1,11 +1,6 @@
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Gabriel%20Razo%20Dantas&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Estudante%20de%20ADS%20na%20FIAP%20%7C%20Back-end%20%26%20Dados&descSize=16&descAlignY=62&theme=slate&animation=fadeIn" />
-</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação+%F0%9F%9A%80;Java+%7C+Python+%7C+SQL+Oracle;JavaScript+%7C+TypeScript+%7C+React;Em+busca+do+meu+primeiro+estágio!" alt="Typing SVG" />
+  <img src="banner.svg" width="100%" alt="Gabriel Razo Dantas" />
 </div>
-
 <br>
 
 ## 👨‍💻 Sobre mim
